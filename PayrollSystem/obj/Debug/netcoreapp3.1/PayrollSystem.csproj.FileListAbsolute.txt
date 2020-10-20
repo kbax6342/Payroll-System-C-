@@ -1,0 +1,13 @@
+D:\Web Applications\PayrollSystem\PayrollSystem\obj\Debug\netcoreapp3.1\PayrollSystem.csprojAssemblyReference.cache
+D:\Web Applications\PayrollSystem\PayrollSystem\obj\Debug\netcoreapp3.1\PayrollSystem.AssemblyInfoInputs.cache
+D:\Web Applications\PayrollSystem\PayrollSystem\obj\Debug\netcoreapp3.1\PayrollSystem.AssemblyInfo.cs
+D:\Web Applications\PayrollSystem\PayrollSystem\obj\Debug\netcoreapp3.1\PayrollSystem.csproj.CoreCompileInputs.cache
+D:\Web Applications\PayrollSystem\PayrollSystem\bin\Debug\netcoreapp3.1\PayrollSystem.exe
+D:\Web Applications\PayrollSystem\PayrollSystem\bin\Debug\netcoreapp3.1\PayrollSystem.deps.json
+D:\Web Applications\PayrollSystem\PayrollSystem\bin\Debug\netcoreapp3.1\PayrollSystem.runtimeconfig.json
+D:\Web Applications\PayrollSystem\PayrollSystem\bin\Debug\netcoreapp3.1\PayrollSystem.runtimeconfig.dev.json
+D:\Web Applications\PayrollSystem\PayrollSystem\bin\Debug\netcoreapp3.1\PayrollSystem.dll
+D:\Web Applications\PayrollSystem\PayrollSystem\bin\Debug\netcoreapp3.1\PayrollSystem.pdb
+D:\Web Applications\PayrollSystem\PayrollSystem\obj\Debug\netcoreapp3.1\PayrollSystem.dll
+D:\Web Applications\PayrollSystem\PayrollSystem\obj\Debug\netcoreapp3.1\PayrollSystem.pdb
+D:\Web Applications\PayrollSystem\PayrollSystem\obj\Debug\netcoreapp3.1\PayrollSystem.genruntimeconfig.cache
