@@ -33,7 +33,7 @@ namespace PayrollSystem
                 weeklySalary = value;
             }
         }
-        public  decimal Earnings()
+        public override decimal Earnings()
         {
             return WeeklySalary;
         }

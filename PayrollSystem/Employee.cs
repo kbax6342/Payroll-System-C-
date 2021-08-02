@@ -26,6 +26,8 @@ namespace PayrollSystem
                 $"SSN is: {SSN}";
         }
 
+        public abstract decimal Earnings();
+
     } //end employee class
 
 }//end of payroll namespace
